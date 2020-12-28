@@ -1,0 +1,204 @@
+
+
+.navbar{
+    padding-left: 100px;
+    padding-right: 100px;
+ }
+
+
+
+
+ .bg-custom{
+     background-color:  #22C7EC;
+
+ }
+
+ .custom-container{
+   padding-top: 40px;
+   padding-bottom: 40px;
+   padding-left: 250px;
+   padding-right: 250px;
+ }
+
+ 
+ .custom-container2{
+    padding-top: 40px;
+    padding-bottom: 40px;
+  
+  }
+
+ .my-row{
+     align-items: flex-end;
+ }
+
+ .checked {
+    color: #22C7EC;
+    align-items: center;
+    text-align: center;
+  }
+  
+
+  .customers-container{
+      margin-top: 50px;
+      margin-bottom: 50px;
+  } 
+.customers-container img{
+  width: 100px;
+  height: 100px;
+
+}
+
+footer{
+     background-color: #33383c;
+     padding:70px 0px;
+}	       
+
+footer ul li{
+    padding:5px 0px;
+}
+
+footer img{
+    margin-left: 45px;
+}
+
+.adress span , .contact span , .social span{
+   color: #FFF; 
+   padding-bottom: 10px; 
+   margin-bottom: 20px;
+   display: block;
+   font-size: 20px;
+}
+ 
+.adress li p , .contact li a , .social li a{
+    color:#FFF;
+    letter-spacing: 2px;
+    text-decoration:none;
+    font-size:15px;
+}
+
+.social li{
+    float:left;
+}
+
+.adress , .contact , .social {
+    list-style: none;
+}
+
+.fa{
+    color:#9c9c9c;
+    margin-right: 15px;
+    font-size:14px;
+}
+
+
+
+.navbar-main-item{
+    color: #40CDEC;
+    font-weight: bold;
+}
+
+.nav-second{
+    background-color: #22C7EC;
+
+}
+
+.navbar-second-item{
+    color: white;
+}
+
+.no-padding {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+.details{
+      text-align: center;
+      
+      color: white;
+      padding-left: 100px;
+      padding-right: 100px;
+      font-size: 20px;
+  }
+
+  
+.detail{
+    
+    color: white;
+    font-size: 20px;
+}
+
+.gradient-buttons .btn {
+    background-image: linear-gradient(to bottom, rgba(255,255,255,0.5), rgba(255,255,255,0.2) 49%, rgba(0,0,0,0.15) 51%, rgba(0,0,0,0.05));
+    background-repeat: repeat-x;
+}
+
+.card {
+  margin: 10px;
+  box-shadow: 0 5px 10px -2.5px;
+}
+
+.what{
+    color: #FDA116;
+}
+
+.name{
+    color: #FDA116;
+    text-align: center;
+}
+.card-text{
+    text-align: center;
+}
+
+.old{
+    color: #FDA116;
+    text-align: center;
+}
+
+.label-new{
+    background-color: #FDA116;
+    padding: 10px;
+    margin: 25px;
+    color: white;
+}
+
+.label-sale{
+    background-color:#22C7EC;
+    padding: 10px;
+    margin: 25px;
+    color: white;
+}
+
+.custome{
+    margin-left: 20px;
+}
+
+.title{
+    font-weight: bold;
+    font-size: 23px;
+}
+
+.price{
+    
+        font-weight: bold;
+        font-size: 23px;
+        padding-right: 15px;
+  
+}
+
+.custom-container-found{
+    padding-top: 40px;
+   padding-bottom: 40px;
+   padding-left: 250px;
+   padding-right: 250px;
+    background-color: #FDA116;
+}
+
+.custom-container-how{
+    padding-top: 40px;
+   padding-bottom: 40px;
+   padding-left: 250px;
+   padding-right: 250px;
+    background-color: white;
+}
+
+
